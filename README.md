@@ -1,8 +1,9 @@
+![slice](https://capsule-render.vercel.app/api?type=slice&color=0:2EAC3D,100:7DC1E1&height=300&text=import%20com.LING_LING👋&&fontSize=52&fontAlign=63&rotate=20&fontAlignY=36)
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2EAC3D,100:7DC1E1&height=250&section=header&text=import%20%20com.LING_LING&fontSize=50)
-
-# 🌱 CONTACK ME
-<img src="https://img.shields.io/badge/KakaoMail-FFE01B?style=flat&logo=gmail&logoColor=white"/>
+# 🌱 CONTACT ME
+<a href="mailto:linglinging@kakao.com">
+<img src="https://img.shields.io/badge/KakaoMail-FFE01B?style=flat&logo=gmail&logoColor=white&link=mailto:linglinging@kakao.com"/>
+</a>
 <br><br><br>
 
 # ☘️ TECH STACK
@@ -32,4 +33,4 @@
 
 # 🌱 LOG
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=lingling_23)](https://velog.io/@lingling_23) <br>
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lingling_23)](https://github.com/eungyeole/velog-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lingling_23)](https://velog.io/@lingling_23)
