@@ -8,8 +8,9 @@
 </a>
 <br><br><br>
 
-# ✨TECH STACK
-<div align=left>
+<div align=right>
+  
+# TECH STACK✨ <br>
   <img src="https://img.shields.io/badge/Java-FFE01B?style=flat-square&logo=coffeescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-11D057F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-0099ff?style=flat-square&logo=mysql&logoColor=white"/>
@@ -18,8 +19,9 @@
 </div>
 <br><br>
 
-# 🤓STUDY
-<div align=left> 
+<div align=right> 
+  
+# STUDY🤓
   <img src="https://img.shields.io/badge/SpringSecurity-11D057?style=flat-square&logo=springsecurity&logoColor=white"/>&nbsp;
   <img src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=amazonaws&logoColor=white"/>&nbsp;
 </div>
