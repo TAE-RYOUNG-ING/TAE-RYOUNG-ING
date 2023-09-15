@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:2EAC3D,100:7DC1E1&height=300&text=import%20com.LING_LING👋&&fontSize=52&fontAlign=63&rotate=20&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=slice&color=50:BD8FF8,90:FAE6A4&height=300&text=import%20com.LING_LING👋&&fontSize=52&fontAlign=63&rotate=20&fontAlignY=36)
 
 
 
@@ -37,4 +37,4 @@
 
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=0:2EAC3D,100:7DC1E1&height=300)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=50:BD8FF8,90:FAE6A4&height=300)
