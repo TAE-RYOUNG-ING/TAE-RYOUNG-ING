@@ -27,6 +27,8 @@
 </div>
 <br>
 
+
+<!--
 <div align=right>
 
 ### LOG 🌱
@@ -35,6 +37,6 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=lingling_23)](https://velog.io/@lingling_23)
 </div>
 <br>
-
+-->
 
 <!-- ![footer](https://capsule-render.vercel.app/api?section=footer&type=slice&color=50:BD8FF8,90:FAE6A4&height=300) -->
